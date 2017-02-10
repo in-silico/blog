@@ -10,9 +10,10 @@ hugo
 
 cd public
 git init
+git co -b gh-pages
 git remote add origin git@github.com:in-silico/blog.git
 git add -A
 git commit -m 'automatic deploy'
-git push origin gh-pages
-git co master
+git push -f origin gh-pages
 cd ..
+git co master
