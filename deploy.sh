@@ -1,29 +1,18 @@
 #!/bin/sh
 
-DIR=$(dirname "$0")
-
-cd $DIR/..
-
-if [[ $(git status -s) ]]
-then
-    echo "The working directory is dirty. Please commit any pending changes."
-    exit 1;
-fi
+git co -b gh-pages
 
 echo "Deleting old publication"
 rm -rf public
 mkdir public
-git worktree prune
-rm -rf .git/worktrees/public/
 
-echo "Checking out gh-pages branch into public"
-git worktree add -B gh-pages public upstream/gh-pages
-
-echo "Removing existing files"
-rm -rf public/*
-
-echo "Generating site"
 hugo
 
-echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+cd public
+git init
+git remote add origin git@github.com:in-silico/blog.git
+git add -A
+git commit -m 'automatic deploy'
+git push origin gh-pages
+git co master
+cd ..
