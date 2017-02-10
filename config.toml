@@ -2,7 +2,7 @@ baseurl = "https://in-silico.github.io/blog/"
 languageCode = "en-us"
 title = "In-silico blog"
 theme = "hugo-steam-theme"
-# disqusShortname = "spf13"
+disqusShortname = "cp-blog"
 # Enable Google Analytics be inserting your tracking code
 # googleAnalytics = ""
 # Number of posts per page
