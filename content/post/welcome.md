@@ -9,5 +9,3 @@ soluciones de algunas compentencias de programación, principalmente
 las de la Red de Programación competitiva.
 
 ¡ Bienvenidos !
-
-`$O(n)$`
