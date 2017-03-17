@@ -1,6 +1,6 @@
 +++
 date = "2017-03-10T13:36:58-05:00"
-title = "Semana 1: Warmup"
+title = "Charla semana 1: Warmup"
 
 +++
 
@@ -33,7 +33,6 @@ Simplemente tome la entrada y use *if - else* para sumar los puntos.
 Cuando sumamos muchos valores, la suma resultante puede exceder el rango de un *int*, usa el tipo de dato *long long* en C/C++ para evitar el overflow.
 
 ## E - Diagonal Difference
-
 **Conocimiento requerido:** Matriz 2D.
 
 Necesitamos calcular la suma de las dos diagonales de una matriz cuadrada.
