@@ -35,7 +35,7 @@ paginate = 10
 	facebook = ""
 	instagram = ""
 	github = "in-silico"
-	gitlab = ""
+	gitlab = "in-silico"
 	bitbucket = ""
 
 	# Customize or translate the strings
