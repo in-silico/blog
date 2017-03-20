@@ -65,4 +65,4 @@ Principales observaciones:
 Necesitamos agregar +12 a las horas si el tiempo está en PM. Hay que tener en cuenta que las 12:00AM son las 00:00 y las 12:00PM son las 12:00.
 
 ## Código
-[Solución en C++](https://github.com/Yefri97/Competitive-Programming/tree/master/In-Silico/Semana%201)
+[Soluciones en C++](https://github.com/Yefri97/Competitive-Programming/tree/master/In-Silico/Semana%201)
