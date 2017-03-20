@@ -25,7 +25,7 @@ Este problema no plantea dificultades adicionales a los usuarios de Python, pero
 
 **Conocimiento requerido:** Ciclo *for*.
 
-Podemos recorrer todo el arreglo escogiendo el mayor en cada día, pero hay que tener cuidado de escoger por lo menos uno de cada tipo. Si al terminar de recorrer el arreglo no se cumple la restricción, se debe elegir el día con la menor diferencia entre teoría y práctica, es decir, encontrar el índice $i$ tal que $\abs{P_i - T_i}$ sea el más pequeño posible.
+Podemos recorrer todo el arreglo escogiendo el mayor en cada día, pero hay que tener cuidado de escoger por lo menos uno de cada tipo. Si al terminar de recorrer el arreglo no se cumple la restricción, se debe elegir el día con la menor diferencia entre teoría y práctica, es decir, encontrar el índice $i$ tal que $\left | P_i - T_i \right | $ sea el más pequeño posible.
 
 ## D - Create a Team!
 
@@ -62,4 +62,4 @@ Dado que la talla del problema es muy pequeña se puede resolver usando backtrac
 Pero la solución mas simple es ordenar el arreglo, y luego tomar el mas pequeño hasta que no se pueda mas.
 
 ## Código
-[Solución en C++](https://github.com/Yefri97/Competitive-Programming/tree/master/In-Silico/Semana%202)
+[Soluciones en C++](https://github.com/Yefri97/Competitive-Programming/tree/master/In-Silico/Semana%202)
