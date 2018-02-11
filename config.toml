@@ -10,7 +10,7 @@ paginate = 10
 
 [params]
 	title = "In-silico Blog"
-	subtitle = "Blog about competitive programming by In-silico"
+	subtitle = "Blog acerca de programación competitiva escrito por el semillero In-silico"
 	copyright = "Released under the MPL-2 license."
 
 	# You can choose between green, orange, red and blue.
@@ -24,8 +24,8 @@ paginate = 10
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
 	name = "In-silico"
-	bio = "Student group at Universidad Tecnologica de Pereira"
-	description = "Blog about competitive programming"
+	bio = "Semillero de investigacion de la Universidad Tecnologica de Pereira"
+	description = "Blog acerca de programación competitiva escrito por el semillero In-silico"
 
 	# Link your social networks (optional)
 	location = ""
