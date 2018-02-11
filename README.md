@@ -24,6 +24,25 @@ Contenido en markdown.
 Todos los cambios, se realizarán a través de pull request. La persona encargada de
 mezclar el pull request se encargará de hacer deploy del nuevo contenido.
 
+## Set up para probar local:
+
+- [Instalar Hugo](https://gohugo.io/overview/installing/)
+- Clonar el tema:
+```
+mkdir themes
+cd themes
+git clone https://github.com/digitalcraftsman/hugo-steam-theme.git
+cd ..
+```
+
+Luego debería ser suficiente correr lo siguiente:
+
+```
+hugo serve
+```
+
+Si todo funcionó bien. Ya está listo para el deploy.
+
 ## Deploy:
 
 desde la consola:
