@@ -10,7 +10,8 @@ Cada equipo tendrá máximo 3 integrantes y ganará aquel que resuelva la mayor 
 
 Invitamos a toda la comunidad de la UTP a que se animen a participar en este evento hecho con esfuerzo y cariño para ustedes. Si deseas participar deberás registrarte lo más rápido posible ya que contamos con cupos limitados.
 
-- [Link de registro](https://goo.gl/forms/WYFAaFDsYOEYi9Ke2)
+- [Link para practicar](https://www.hackerrank.com)
+- [Link para recibir mas información](https://goo.gl/forms/WYFAaFDsYOEYi9Ke2)
 
 # Ediciones anteriores
 
