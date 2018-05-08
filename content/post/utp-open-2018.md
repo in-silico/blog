@@ -72,7 +72,7 @@ Deseamos suerte a todos los competidores y que el mejor programador gane :D
 
 Tambien puedes mirar el tablero final, leer el problemset o trabajar la pos-maratón del **UTP Open 2017** en la página oficial de la Red de Programación Competitiva.
 
-- [RPC UTP Open 2017](http://www.redprogramacioncompetitiva.com/Contest/Show/58cb610f2663e76fc8382ad3)
+- [UTP Open 2017](http://www.redprogramacioncompetitiva.com/Contest/Show/58cb610f2663e76fc8382ad3)
 
 # Ediciones anteriores
 
