@@ -10,8 +10,65 @@ Cada equipo tendrá máximo 3 integrantes y ganará aquel que resuelva la mayor 
 
 Invitamos a toda la comunidad de la UTP a que se animen a participar en este evento hecho con esfuerzo y cariño para ustedes. Si deseas participar deberás registrarte lo más rápido posible ya que contamos con cupos limitados.
 
+**ACTUALIZACIÓN**
+
+Hoy Martes 8 de Mayo de 2018 (siendo más o menos las 6:00 PM) contando con 13 equipos inscritos, se informa que se cierran las inscripciones para la IX Maratón Interna de Programación UTP Open 2018, los equipo inscritos son los siguientes:
+
+**Lista de equipos inscritos UTP Open 2018**
+
+**UTP - Lucas**
+
+- Catalina Gomez Santa
+- Lady Johanna Trejos Hernandez
+- Andres Felipe Betancurt Rivera
+
+**UTP - No Registra**
+
+- Nicolas Aguirre Espinoza
+- Sebastian Londoño
+- Yerikson Stanly Clavijo Martinez
+
+**UTP - L A Y E R  8**
+
+- Santiago Sánchez Pulgarín
+- Jhon Edison Giraldo Mejía
+
+**UTPanem**
+
+- María Catalina Castro Arias
+- Jesús David Mena Rivera
+
+**UTP - Null Error**
+
+- Cesar Alejandro Solano Suarez
+- Daniel Alejandro Serna
+- Orlando Andrés Mejía
+
+**UTP - Alcada**
+
+- Diego  Alejandro  Restrepo Sánchez
+- Daniel Felipe Bedoya Tabares
+- Juan Camilo  Palacios
+
+**UTP - Wrong Syntax**
+
+- Jhon Henrry Pulgarín Giraldo
+- Leandro Pulgarín Taborda
+
+**UTP - Lovelace**
+
+- Carolina Jiménez Gómez
+- Karen López Segura
+- Vanessa Penagos Ríos
+
+**UTPollos**
+
+- Hector Steven Montillo Quiceno
+- Gustavo Adolfo Restrepo Gil
+
+Deseamos suerte a todos los competidores y que el mejor programador gane :D
+
 - [Link para practicar](https://www.hackerrank.com)
-- [Link para recibir mas información](https://goo.gl/forms/WYFAaFDsYOEYi9Ke2)
 
 # Ediciones anteriores
 
