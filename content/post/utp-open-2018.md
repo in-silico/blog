@@ -1,10 +1,10 @@
 +++
 date = "2018-04-29"
-title = "UTP Open 2018"
+title = "XI Maratón Interna de Programación - UTP Open 2018"
 description = "Competencia de programación organizada por el semillero InSilico"
 +++
 
-El próximo **12 de mayo** de 2018 se llevará a cabo la **IX Maratón Interna de Programación – UTP Open 2018** en la cual se utilizará el conjunto de retos de programación diseñados por parte de los integrantes del semillero de investigación in-silico de la Universidad Tecnológica de Pereira.
+El próximo **12 de mayo** de 2018 se llevará a cabo la **IX Maratón Interna de Programación - UTP Open 2018** en la cual se utilizará el conjunto de retos de programación diseñados por parte de los integrantes del semillero de investigación in-silico de la Universidad Tecnológica de Pereira.
 
 Cada equipo tendrá máximo 3 integrantes y ganará aquel que resuelva la mayor cantidad de problemas en el tiempo que dure la competencia. Los problemas van desde temáticas básicas como uso de condicionales y ciclos, hasta problemas más difíciles que requeriran mayor creatividad al momento de construir algoritmos que resuelvan el problema dado.
 
@@ -12,9 +12,9 @@ Invitamos a toda la comunidad de la UTP a que se animen a participar en este eve
 
 ## ACTUALIZACIÓN
 
-Hoy Martes 8 de Mayo de 2018 (siendo más o menos las 6:00 PM) contando con 13 equipos inscritos, se informa que se cierran las inscripciones para la IX Maratón Interna de Programación UTP Open 2018, los equipo inscritos son los siguientes:
+Hoy Martes 8 de Mayo de 2018 (siendo más o menos las 6:00 PM) contando con 13 equipos inscritos, se informa que se cierran las inscripciones para la IX Maratón Interna de Programación - UTP Open 2018, los equipo inscritos son los siguientes:
 
-## Lista de equipos inscritos UTP Open 2018
+## Lista de equipos inscritos para la XI Maratón Interna de Programación - UTP Open 2018
 
 **UTP - Lucas**
 
