@@ -10,11 +10,11 @@ Cada equipo tendrá máximo 3 integrantes y ganará aquel que resuelva la mayor 
 
 Invitamos a toda la comunidad de la UTP a que se animen a participar en este evento hecho con esfuerzo y cariño para ustedes. Si deseas participar deberás registrarte lo más rápido posible ya que contamos con cupos limitados.
 
-**ACTUALIZACIÓN**
+## ACTUALIZACIÓN
 
 Hoy Martes 8 de Mayo de 2018 (siendo más o menos las 6:00 PM) contando con 13 equipos inscritos, se informa que se cierran las inscripciones para la IX Maratón Interna de Programación UTP Open 2018, los equipo inscritos son los siguientes:
 
-**Lista de equipos inscritos UTP Open 2018**
+## Lista de equipos inscritos UTP Open 2018
 
 **UTP - Lucas**
 
@@ -68,7 +68,11 @@ Hoy Martes 8 de Mayo de 2018 (siendo más o menos las 6:00 PM) contando con 13 e
 
 Deseamos suerte a todos los competidores y que el mejor programador gane :D
 
-- [Link para practicar](https://www.hackerrank.com)
+## Link de practica
+
+Tambien puedes mirar el tablero final, leer el problemset o trabajar la pos-maratón del **UTP Open 2017** en la página oficial de la Red de Programación Competitiva.
+
+- [RPC UTP Open 2017](http://www.redprogramacioncompetitiva.com/Contest/Show/58cb610f2663e76fc8382ad3)
 
 # Ediciones anteriores
 
