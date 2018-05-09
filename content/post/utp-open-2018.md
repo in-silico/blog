@@ -66,6 +66,24 @@ Hoy Martes 8 de Mayo de 2018 (siendo más o menos las 6:00 PM) contando con 13 e
 - Hector Steven Montillo Quiceno
 - Gustavo Adolfo Restrepo Gil
 
+**UCP1**
+
+- Luisa Fernanda Botero Cely
+- Sergio Esteban Valencia  Velasquez
+- Luis Ernesto Ruiz
+
+**UCP2**
+
+- Oscar Andres Ramirez
+- Ernesto Montes
+- Óscar Gallego Hincapié
+
+**UCP3**
+
+- Emanuel David Henao
+- Jhonathan Cardona
+- Kenpo Erickson Castaño
+
 Deseamos suerte a todos los competidores y que el mejor programador gane :D
 
 ## Link de practica
