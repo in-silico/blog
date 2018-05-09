@@ -12,7 +12,7 @@ Invitamos a toda la comunidad de la UTP a que se animen a participar en este eve
 
 ## ACTUALIZACIÓN
 
-Hoy Martes 8 de Mayo de 2018 (siendo más o menos las 6:00 PM) contando con 13 equipos inscritos, se informa que se cierran las inscripciones para la IX Maratón Interna de Programación - UTP Open 2018, los equipo inscritos son los siguientes:
+Hoy Martes 8 de Mayo de 2018 (siendo más o menos las 6:00 PM) contando con 12 equipos inscritos, se informa que se cierran las inscripciones para la IX Maratón Interna de Programación - UTP Open 2018, los equipo inscritos son los siguientes:
 
 ## Lista de equipos inscritos para la XI Maratón Interna de Programación - UTP Open 2018
 
