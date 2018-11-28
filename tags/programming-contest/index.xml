@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Contest on Manuel Pineda</title>
+    <link>https://pin3da.github.io/tags/programming-contest/</link>
+    <description>Recent content in Programming Contest on Manuel Pineda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 14:09:38 -0200</lastBuildDate>
+    
+	<atom:link href="https://pin3da.github.io/tags/programming-contest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Las competencias de programación son importantes en la vida laboral?</title>
+      <link>https://pin3da.github.io/posts/programming-contests/</link>
+      <pubDate>Wed, 28 Nov 2018 14:09:38 -0200</pubDate>
+      
+      <guid>https://pin3da.github.io/posts/programming-contests/</guid>
+      <description>Actualmente existen muchas opiniones contradictorias acerca de si las competencias de programación son útiles o no, a continuación contaré por que creo que son bastante importantes bajo mi experiencia. No duden en comentar y discutir lo escrito en este blog.
+¿Qué son las competencias de programación? Son como las olimpiadas de matemáticas, pero con computadores.
+En este tipo de competencias se presenta una serie de retos de diversos temas, por ejemplo, estructuras de datos, algoritmos, geometría, física, teoría de grafos, entre otros.</description>
+    </item>
+    
+  </channel>
+</rss>

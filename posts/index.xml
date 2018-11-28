@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Manuel Pineda</title>
+    <link>https://pin3da.github.io/posts/</link>
+    <description>Recent content in Posts on Manuel Pineda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 14:09:38 -0200</lastBuildDate>
+    <atom:link href="https://pin3da.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>¿Las competencias de programación son importantes en la vida laboral?</title>
+      <link>https://pin3da.github.io/posts/programming-contests/</link>
+      <pubDate>Wed, 28 Nov 2018 14:09:38 -0200</pubDate>
+      
+      <guid>https://pin3da.github.io/posts/programming-contests/</guid>
+      <description>Actualmente existen muchas opiniones contradictorias acerca de si las competencias de programación son útiles o no, a continuación contaré por que creo que son bastante importantes bajo mi experiencia. No duden en comentar y discutir lo escrito en este blog.
+¿Qué son las competencias de programación? Son como las olimpiadas de matemáticas, pero con computadores.
+En este tipo de competencias se presenta una serie de retos de diversos temas, por ejemplo, estructuras de datos, algoritmos, geometría, física, teoría de grafos, entre otros.</description>
+      <content type="html"><![CDATA[
+
+<p>Actualmente existen muchas opiniones contradictorias acerca de si las competencias de programación son útiles o no, a continuación contaré por que creo que son bastante importantes bajo mi experiencia. No duden en comentar y discutir lo escrito en este blog.</p>
+
+<h2 id="qué-son-las-competencias-de-programación">¿Qué son las competencias de programación?</h2>
+
+<p>Son como las olimpiadas de matemáticas, pero con computadores.</p>
+
+<p>En este tipo de competencias se presenta una serie de retos de diversos temas, por ejemplo, estructuras de datos, algoritmos, geometría, física, teoría de grafos, entre otros. Se deben escribir programas de computador (individualmente o por equipos) para resolver dichos problemas.</p>
+
+<h2 id="qué-es-la-vida-laboral">¿Qué es la vida laboral?</h2>
+
+<p>Es una competencia de programación con duración indefinida donde nos pagan por resolver problemas. También se escriben programas de computador (individualmente o por equipos) para resolver dichos retos.</p>
+
+<h2 id="respuesta-a-la-pregunta-original">Respuesta a la pregunta original:</h2>
+
+<p>Aquí las razones por las cuales considero que las competencias de programación son importantes en la vida laboral, trataré de hacer un paralelo de las habilidades adquiridas y como se usan en la industria:</p>
+
+<ul>
+<li><strong>Habilidades para resolver problemas</strong>: Generalmente en las competencias de programación debemos resolver los retos de la manera más eficiente posible, para esto debemos conocer entre otras cosas, la complejidad computacional de nuestras soluciones, estructuras de datos y técnicas de programación. Cuando aplicamos estos conocimientos en nuestro trabajo, escribimos programas más rápidos, más eficientes y generalmente más simples.</li>
+<li><strong>Trabajo en equipo:</strong> Muchas competencias se realizan en equipos, generalmente de 2 o 3 personas. Esto es una experiencia increíble ya que nos ayuda a buscar formas para comunicar mejor nuestras ideas, también nos ayuda a comprender las reacciones de nuestros compañeros y a mantener un ambiente cómodo para todos. Supremamente importante en la vida laboral.</li>
+<li><strong>Revisión de código:</strong> Esto está relacionado con el punto anterior, generalmente es necesario leer código de nuestros compañeros y que ellos lean el nuestro para compartir soluciones y discutir ideas. Cuando tenemos equipos sólidos, se tiende a escribir el código de la manera más clara posible y con algún tipo de convención para que todos puedan entenderlo más fácilmente. Esto es comparable con algún tipo de <em>pair programming</em> (dado que en las competencias sólo se puede usar un computador por equipo) o el famoso <em>code review</em>. Incluso en las competencias individuales, se suele leer el código de competidores avanzados (después de terminada la competencia) para encontrar mejores maneras de solucionar los problemas. Esto nos ayuda mucho a <strong>comprender el código de las demás personas</strong>.</li>
+<li><strong>Búsqueda de errores (bugs):</strong> Todo programa de computador tiene una alta probabilidad de errores. En las competencias de programación, parte de nuestro trabajo es eliminar dichos errores de nuestros programas o los de nuestros compañeros. Esto es una habilidad que personalmente valoro mucho y que hace una gran diferencia en la vida laboral.</li>
+<li><strong>Pruebas unitarias:</strong> Cada uno de los retos, viene con un conjunto de datos para probar si nuestro código resuelve correctamente el problema o no. Esto crea el ambiente perfecto para escribir nuestro código de tal forma que podamos comprobar su salida para una entrada específica, de igual forma como lo haríamos con unit test en cualquier programa de nuestra vida laboral. En las competencias incluso existen casos de prueba los cuales podemos conocer <strong>antes</strong> de resolver el problema (parecido a lo que se pretende con TDD).</li>
+<li><strong>Preparación para entrevistas:</strong> La mayoría de las empresas (principalmente los gigantes como google o facebook) utilizan preguntas muy similares a los retos que encontramos en las competencias de programación para sus entrevistas. Al practicar constantemente podemos incrementar nuestras posibilidades de encontrar un buen trabajo (:</li>
+</ul>
+
+<h2 id="dónde-puedo-practicar">¿Dónde puedo practicar?</h2>
+
+<p>Existen muchos sitios en internet donde resolver retos de programación, entre mis favoritos están:</p>
+
+<ul>
+<li><a href="http://codeforces.com/" target="_blank">http://codeforces.com/</a></li>
+<li><a href="https://www.hackerrank.com/dashboard" target="_blank">https://www.hackerrank.com/dashboard</a></li>
+<li><a href="https://www.codechef.com/" target="_blank">https://www.codechef.com/</a></li>
+<li><a href="https://csacademy.com/" target="_blank">https://csacademy.com/</a></li>
+</ul>
+
+<h2 id="conclusión">Conclusión</h2>
+
+<p>Las competencias de programación no cubren el 100% de las habilidades que necesitamos para ser buenos <em>desarrolladores</em> pero son un gran complemento para lograrlo.</p>
+
+<p>No dudes en compartirnos tu opinión o las dudas que puedas tener al respecto.</p>
+]]></content>
+    </item>
+    
+  </channel>
+</rss>
